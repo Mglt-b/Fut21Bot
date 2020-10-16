@@ -3,6 +3,7 @@ You need to set data in login section, your password, and every cookies content<
 Price are calculed with futbin actual prices</br>
 Use it since 3 days, don't have troubles</br>
 Use it at your own risk </br>
+It can be run in back task </br>
 
 # With Python</br>
 import webbot</br>
