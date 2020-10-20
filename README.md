@@ -1,4 +1,5 @@
-# Fut21Bot </br></br>
+# Fut21Bot </br>
+# Bot for bid and snipe automation in fifa 21 ultimate team</br></br>
 You need to set data in login section, your password, and every cookies content</br>
 Price are calculed with futbin actual prices</br>
 Use it since 3 days, don't have troubles</br>
