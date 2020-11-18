@@ -1,5 +1,5 @@
 # Fut21Bot </br>
-# Fot windows </br>
+# For windows </br>
 # Bot for bid and snipe automation in fifa 21 ultimate team</br></br>
 1) You need to set data in login section, your password, and every cookies content</br></br>
 
