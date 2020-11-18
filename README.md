@@ -12,7 +12,7 @@ Use it at your own risk </br>
 It can be run in back task </br>
 GUI is coming... </br>
 
-# With Pytho 3</br>
+# With Python 3</br>
 Using webbot,selenium,requests</br>
 from webbot import Browser</br>
 
